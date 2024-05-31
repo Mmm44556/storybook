@@ -1,0 +1,8 @@
+.checkBox{
+  border: 3px solid lightblue;
+  background-color: lightcoral;
+}
+
+.checkBox__done {
+  background-color: lightgreen !important;
+}
